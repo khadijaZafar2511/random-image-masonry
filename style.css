@@ -1,0 +1,29 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+html,body{ 
+    height:100% ;
+    width: 100%;
+    box-sizing: border-box;
+}
+#main{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#photo{ 
+    height:160px;
+    width:90px;
+    border: 1px solid rgb(24, 22, 22);
+    margin-top: 5px; margin-bottom: 5px;margin-right: 5px;
+    border-radius: 15%;
+    overflow: hidden;
+}
+#photo img{ 
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
