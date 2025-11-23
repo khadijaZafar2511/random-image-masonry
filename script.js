@@ -9,35 +9,3 @@ s+= `<div id="photo"> <img src=${arr[r]}></div>`;
 box.innerHTML=s;
 
 
-
-
-
-
-
-
-
-
-
-// let n=Math.floor(Math.random()*4);
-// let m=Math.floor(Math.random()*4);
-// let p=Math.floor(Math.random()*4);
-// let q=Math.floor(Math.random()*4);
-
-// let arr=[n,m,p,q]
-
-// if(n==1){ 
-
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-// https://i.pinimg.com/736x/81/60/5e/81605e77565564c36a62eb8c3c829997.jpg
